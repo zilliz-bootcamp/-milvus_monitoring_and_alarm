@@ -1,3 +1,5 @@
+:exclamation::exclamation: **This repo will no longer be maintained, please visit https://github.com/milvus-io/bootcamp** :exclamation: :exclamation:
+
 # Prometheus and Grafana were used to monitor and alarm Milvus
 
 Milvus uses Prometheus to monitor and store performance metrics, and uses open source timing data analysis and visualizable platform Grafana to display performance metrics.
